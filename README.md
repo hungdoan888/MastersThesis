@@ -2,7 +2,7 @@
 Exploration of rings of homogeneous and non-homogeneous oscillators using the Ricker model
 
 # Motivation
-Master's Thesis: It is the hope that a dynamicist can take the work done in this paper and use it to real-world applicacations.
+Master's Thesis(<a href="DoanHung_Thesis2020.pdf" class="image fit" ><img src="images/marr_pic.jpg" alt=""></a>): It is the hope that a dynamicist can take the work done in this paper and use it to real-world applicacations.
 
 ![Alt text](ricker.png?raw=true "The Ricker Model")
 ![Alt text](coupled_rings_case1.png?raw=true "coupled_rings_case1")

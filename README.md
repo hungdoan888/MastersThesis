@@ -24,4 +24,7 @@ Master's Thesis: It is the hope that a dynamicist can take the work done in this
   - n - The number of oscillators in a ring (~32)
   - s - The seed value (~1)
   
+ # Credits
+ - Code in 'LCE.m' based off the psuedo code written by Hubertus von Bremen in <a href="HQRB_paper.pdf" target="_blank">HQRB.pdf</a>
+  
  

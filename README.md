@@ -6,6 +6,7 @@ Exploration of rings of homogeneous and non-homogeneous oscillators using the Ri
 # Motivation
 Master's Thesis: It is the hope that a dynamicist can take the work done in this paper and use it to real-world applicacations.
 
+# Screenshots
 ![Alt text](ricker.png?raw=true "The Ricker Model")
 ![Alt text](coupled_rings_case1.png?raw=true "coupled_rings_case1")
 ![Alt text](case_1.png?raw=true "case_1")

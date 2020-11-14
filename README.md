@@ -1,10 +1,9 @@
 # Master's Thesis
-Exploration of rings of homogeneous and non-homogeneous oscillators using the Ricker model. 
-
-<a href="DoanHung_Thesis2020.pdf" target="_blank">DoanHung_Thesis2020.PDF</a>
+- Exploration of rings of homogeneous and non-homogeneous oscillators using the Ricker model. 
+- <a href="DoanHung_Thesis2020.pdf" target="_blank">DoanHung_Thesis2020.PDF</a>
 
 # Motivation
-Master's Thesis: It is the hope that a dynamicist can take the work done in this paper and use it to real-world applicacations.
+- Master's Thesis: It is the hope that a dynamicist can take the work done in this paper and use it to real-world applicacations.
 
 # Screenshots
 ![Alt text](ricker.png?raw=true "The Ricker Model")
@@ -15,7 +14,7 @@ Master's Thesis: It is the hope that a dynamicist can take the work done in this
 - MATLAB
 
 # How to use
-The .m files below are used to create maps and tangent maps of rings of non-homogeneous oscillators.  To determine if a system is chaotic or not, we can use Lyapunov characteristic explonents (LCEs) using the LCE.m script.  The method used is the HQRB method and the psuedo code for this method can be found in the HQRB.pdf paper attached under 'Credits'
+- The .m files below are used to create maps and tangent maps of rings of non-homogeneous oscillators.  To determine if a system is chaotic or not, we can use Lyapunov characteristic explonents (LCEs) using the LCE.m script.  The method used is the HQRB method and the psuedo code for this method can be found in the HQRB.pdf paper attached under 'Credits'
 
 - LCE.m Inputs
   - map - Provided by the 'map_ricker_nearestNeighbor' and 'map_ricker_nearest4Neighbors' functions:

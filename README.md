@@ -1,4 +1,4 @@
-# MastersThesis
+# Master's Thesis
 Exploration of rings of homogeneous and non-homogeneous oscillators using the Ricker model. 
 
 <a href="DoanHung_Thesis2020.pdf" target="_blank">DoanHung_Thesis2020.PDF</a>

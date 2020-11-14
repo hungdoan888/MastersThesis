@@ -15,11 +15,25 @@ Master's Thesis: It is the hope that a dynamicist can take the work done in this
 - MATLAB
 
 # How to use
-- Inputs:
+- LCE.m Inputs:
   - map - Provided by the 'map_ricker_nearestNeighbor' and 'map_ricker_nearest4Neighbors' functions
   - tanmap - Provided by the 'tanmap_ricker_nearestNeighbor' and 'tanmap_ricker_nearest4Neighbors' functions
   - iteration - The number of iterations it takes the system to evolve (~2,000,000)
   - lce_iteration - The number of iterations used for LCE Calculation (~50,000)
+  - b - The connection strength between neighbors (~0.2)
+  - r - The intrinsic growth rate (~3)
+  - n - The number of oscillators in a ring (~32)
+  - s - The seed value (~1)
+  
+- map_ricker_nearestNeighbor.m and map_ricker_nearest4Neigbor.m Inputs:
+  - iteration - The number of iterations it takes the system to evolve (~2,000,000)
+  - b - The connection strength between neighbors (~0.2)
+  - r - The intrinsic growth rate (~3)
+  - n - The number of oscillators in a ring (~32)
+  - s - The seed value (~1)
+  
+- tanmap_ricker_nearestNeighbor.m and tanmap_ricker_nearest4Neigbors.m Inputs:
+  - Ni (map) - Provided by the 'map_ricker_nearestNeighbor' and 'map_ricker_nearest4Neighbors' functions
   - b - The connection strength between neighbors (~0.2)
   - r - The intrinsic growth rate (~3)
   - n - The number of oscillators in a ring (~32)
